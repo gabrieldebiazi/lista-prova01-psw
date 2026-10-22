@@ -1,0 +1,12 @@
+Exercício 1
+O head armazena informações pertinentes ao funcionamento da página HTML, e o body armazena 
+todo o conteúdo que será colocado na página.
+
+Exercício 5
+Essa linha serve para conectar o código html com o arquivo css, geralmente eles são separados pois
+o html tem a função de estruturar a página e o css tem função de estilizar, logo separa-los torna o código
+mais organizado e de mais fácil manutenção.
+
+Exercício 6
+#titulo serve como estilização única para um objeto do html, já .destaque pode ser utilizado para vários objetos.
+

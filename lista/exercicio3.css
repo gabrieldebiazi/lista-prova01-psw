@@ -1,0 +1,63 @@
+body {
+    background-color: purple;
+    padding: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+    background-image: url("https://i.redd.it/mdvmefeejg331.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: multiply;
+
+}
+
+.titulo {
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 40px;
+
+}
+
+.containerFoto {
+    align-items: center;
+    text-align: center;
+}
+
+.fotoPerfil {
+    border-radius: 100%;
+    width: 200px;
+}
+
+.descricao {
+    align-items: center;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.redes {
+   display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 30px;     
+
+}
+
+.rede {
+    max-width: 500px;
+    text-align: center;
+}
+
+.redeSocial {
+    border-radius: 10px;
+    width: 80px;
+    padding-top: 40px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    text-shadow: 5px black;
+}
+
+

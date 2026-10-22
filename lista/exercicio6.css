@@ -1,0 +1,9 @@
+#titulo {
+    text-align: center;
+}
+
+.destaque {
+    padding: 10px;
+    width: fit-content;
+    background-color: yellow;
+}
