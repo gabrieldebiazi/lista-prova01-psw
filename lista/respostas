@@ -10,3 +10,44 @@ mais organizado e de mais fácil manutenção.
 Exercício 6
 #titulo serve como estilização única para um objeto do html, já .destaque pode ser utilizado para vários objetos.
 
+Exercício 9
+"display: flex" ativa a propriedade de flexbox do css, que transforma um elemento em um container flexivel
+"justify-content: center" faz com que todo o conteudo do elemento seja alinhado ao centro do eixo principal
+"align-items: center" faz a mesma coisa do justify content, porem em relação ao eixo vertical
+"min-height: 100vh" indica a altura minima que o elemnto deve ter, com 100vh sendo a altura total da tela
+
+Exercício 12
+repeat(3, 1fr) cria 3 colunas de tamanhos iguais (1fr)
+
+Exercício 13
+Bootstrap é um framework de css pronto que traz estruturas prontas que facilitam o desenvolvimento de sites.
+container é uma caixa/elemento pai que envolve a página inteira.
+row é uma linha horizontal dentro do container.
+col cria uma coluna dentro da linha.
+btn é uma classe base para botões, com algumas propriedades pré estabelecidas.
+btn-primary define a identidade visual e a cor do botão.
+card cria um painel de conteúdo.
+
+Exercício 15
+nome é uma string
+idade é um int
+aprovado é um boolean
+
+exemplos de outras variaveis
+let nome = "Chips Doritos";
+let preço = 10.50;
+let quantidade = 3;
+let disponibilidade = true;
+
+Exercício 21
+notas[0] é 7
+notas[2] é 9
+notas.length retorna a quantidade de elementos do array (nesse caso é 5)
+podemos fazer notas[1] = 10
+
+Exercício 29
+O usuário acessa a tela, depois clica no botão de acender, isso aciona um evento do botão (clique), que chama
+a função acender, que por sua vez altera a imagem de lampada apagada mostrada na tela para a imagem de lampada acesa.
+
+
+
